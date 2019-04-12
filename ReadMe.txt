@@ -13,4 +13,4 @@ How to run:
    g++ Mush.cpp -o Mush `pkg-config --cflags --libs opencv`
    ./Mush
 
-
+![maxresdefault](maxresdefault.jpg)
